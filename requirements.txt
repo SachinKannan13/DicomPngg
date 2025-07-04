@@ -3,3 +3,4 @@ uvicorn
 pydicom
 Pillow
 python-multipart
+numpy
